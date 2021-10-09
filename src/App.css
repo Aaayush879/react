@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.table tr td:hover{
+  background-color: greenyellow;
+  color:aliceblue;
+  border:0.5px solid rgb(12,12,12);
+}
+.table tr td:hover:nth-child(6){
+  background-color: rgb(231,83,115);
+  color:aliceblue;
+  border:0.5px solid rgb(12,12,12);
+}
+.table tr td:hover:nth-child(5){
+  background-color: rgb(231,83,115);
+  color:aliceblue;
+  border:0.5px solid rgb(12,12,12);
+}

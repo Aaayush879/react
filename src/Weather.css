@@ -1,0 +1,19 @@
+.we{
+    border:none;
+    outline:none;
+}
+.ar{
+    margin-left:29rem;
+    padding:1.2rem;
+
+}
+.ew:hover{
+    box-shadow: 0px, 0px ,1.7px   white;
+    cursor:pointer;
+}
+.are:hover{
+    color:blue;
+    cursor:pointer;
+
+
+}

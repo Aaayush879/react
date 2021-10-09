@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import StateWise from './covid-19 tracker/StateWise';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Todo from './Todo';
+import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div>
+    <StateWise/>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
